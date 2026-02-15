@@ -117,7 +117,7 @@ p {
 
 .yes-btn,
 .no-btn {
-width: 200px;
+width: 100px;
 height: auto;
 display: inline-block;
 }
@@ -137,7 +137,7 @@ display: inline-block;
 }
 
 .final-text{
-    font-size: 22px;
+    font-size: 16px;
     line-height: 2;
     text-align: center;
     display: inline-block;
@@ -146,4 +146,5 @@ display: inline-block;
     border-radius: 12px;
     color: black;
 }
+
 
